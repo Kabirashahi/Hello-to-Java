@@ -3,8 +3,8 @@ System.out.println("hello"):
 
 Method for printing 'hello world' twice:
 void sayhelloworldtwice(){
-System.out.println("hello");
-System.out.println("hello");
+System.out.println("hello wrold");
+System.out.println("hello world");
 }
 
 Program for printing the table of 5 :
