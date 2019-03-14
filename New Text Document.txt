@@ -1,0 +1,30 @@
+Program for printing 'hello' :
+System.out.println("hello"):
+
+Method for printing 'hello world' twice:
+void sayhelloworldtwice(){
+System.out.println("hello");
+System.out.println("hello");
+}
+
+Program for printing the table of 5 :
+int table=5;
+int i;
+for(i=1;i<=10;i++){
+System.out.printf("%d*%d=%d",table,i,table*i).println()
+}
+
+Program for adding up the four integers namely a,b,c and d and adding them again by changing their values individually : 
+int a=2; 
+int b=3;
+int c=4;
+int d=5;
+System.out.printf(a+b+c+d).println()
+int a=8;
+System.out.printf(a+b+c+d).println()
+int b=9;
+System.out.printf(a+b+c+d).println()
+int c=17;
+System.out.printf(a+b+c+d).println()
+int d=74;
+System.out.printf(a+b+c+d).println()
